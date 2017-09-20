@@ -8,4 +8,4 @@ function divide(a,b){}
 
 function inc(n){}
 
-function
+function dec(n){}
